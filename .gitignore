@@ -1,0 +1,8 @@
+.vscode
+.flask
+__pycache__
+.env
+.conf
+.config
+.git
+.idea
